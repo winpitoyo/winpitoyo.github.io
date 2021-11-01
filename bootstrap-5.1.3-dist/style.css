@@ -1,0 +1,44 @@
+html{
+    position: relative;
+}
+
+body{
+    margin-bottom: 0%;
+}
+
+h1{
+    color: rgb(46, 46, 46);
+}
+.jumbotron img{
+    width: 200px;
+    border: 5px solid grey;
+    padding: 0%;
+}
+
+hr{
+    align-self: center;
+    width: 215px;
+    border-top: 3px solid rgba(0, 0, 0, 0.555);
+}
+
+
+section{
+    min-height: 600px;
+}
+
+.portopolio{
+    background-color: grey;
+}
+
+
+footer{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    bottom: 0%;
+    background-color: grey;
+}
+
+a img{
+    margin-top: 3%;
+}
